@@ -1,34 +1,23 @@
-## 👋 Ciao!
+# 👋 Ciao!
 
-### 🧑‍💻 Chi sono
-- **Riccardo Gelain**, conosciuto anche come **Gelone**
-- Studente presso **Istituto Magistri Cumacini**
-
----
-
-### ⭐ Interessi
-- ⚽ **Calcio**
-- 💻 **Programmazione**
-- 🎨 **Grafica digitale** (sto imparando Photoshop)
+## 🧑‍💻 Chi sono
+**Nome:** Riccardo Gelain  
+**Username:** Gelone  
+**Scuola:** ITIS Magistri Cumacini (Lazzago)  
+**Sito:** https://www.magistricumacini.edu.it/
 
 ---
 
-### 🔧 Competenze
-- 🖥️ **So utilizzare il linguaggio C**
-- ✏️ **Sto imparando Photoshop**
+## ⭐ Interessi
+- ⚽ Calcio  
+- 💻 Programmazione  
+- 🎨 Grafica digitale (sto imparando Photoshop)
 
 ---
 
-### 📌 Breakdown del profilo
-```mermaid
-flowchart TD
-    A[👋 Riccardo Gelain] --> B[Alias: Gelone]
-    A --> C[📚 Studente - Magistri Cumacini]
-    A --> D[⭐ Interessi]
-    D --> E[⚽ Calcio]
-    D --> F[💻 Programmazione]
-    D --> G[🎨 Photoshop]
-    A --> H[🔧 Competenze]
-    H --> I[C]
-    H --> L[Photoshop]
+## 🔧 Competenze
+- 🖥️ Conoscenza del linguaggio **C**  
+- ✏️ Sto imparando **Photoshop**
+
+
 
