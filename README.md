@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Ciao!
 
-<!--
-**rikigelone/rikigelone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Chi sono
+- **Riccardo Gelain**, conosciuto anche come **Gelone**
+- Studente presso **Istituto Magistri Cumacini**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Interessi
+- ⚽ **Calcio**
+- 💻 **Programmazione**
+- 🎨 **Grafica digitale** (sto imparando Photoshop)
+
+---
+
+### 🔧 Competenze
+- 🖥️ **So utilizzare il linguaggio C**
+- ✏️ **Sto imparando Photoshop**
+
+---
+
+### 📌 Breakdown del profilo
+```mermaid
+flowchart TD
+    A[👋 Riccardo Gelain] --> B[Alias: Gelone]
+    A --> C[📚 Studente - Magistri Cumacini]
+    A --> D[⭐ Interessi]
+    D --> E[⚽ Calcio]
+    D --> F[💻 Programmazione]
+    D --> G[🎨 Photoshop]
+    A --> H[🔧 Competenze]
+    H --> I[C]
+    H --> L[Photoshop]
+
